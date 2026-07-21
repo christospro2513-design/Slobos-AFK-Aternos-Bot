@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MC_Gun.aternos.me",
-    "port": 15585,
+    "ip": "GUNMCorg.aternos.me",
+    "port": 29630,
     "version": "1.21.11",
     "try-creative": false
   },
